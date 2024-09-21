@@ -1,0 +1,15 @@
+{
+  "name": "devtinder",
+  "version": "1.0.0",
+  "description": "This is a project to learn NodeJS from NamasteNodeJS course.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon src/app.js",
+    "start": "node src/app.js"
+  },
+  "author": "Choksi Dipanshu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
